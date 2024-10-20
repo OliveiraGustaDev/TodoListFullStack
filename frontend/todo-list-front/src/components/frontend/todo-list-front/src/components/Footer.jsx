@@ -10,7 +10,7 @@ const Footer = () => {
             Swal.fire({
               icon: "success",
               title: "Ao Setor de T.I do Depósito das Lojas Cem!",
-              text: "Espero ter atendido as espectativas do projeto. Obrigado pela oportunidade de participar dessa Incrível Seleção de Talentos.",
+              text: "Espero conseguir uma das vagas em aberto, mas se não for dessa vez me aguarde ainda melhor para a próxima. Obrigado pela oportunidade de participar dessa Incrível Seleção de Talentos.",
             });
             return;
           }}
